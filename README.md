@@ -1,0 +1,2 @@
+# 100gameJS-FLAGS
+ 
