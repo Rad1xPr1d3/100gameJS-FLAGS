@@ -1,0 +1,34 @@
+{
+    "Aruba" : {
+        "CountryCodes" : "ABW",
+        "Country" : "Aruba",
+        "Capital" : "Oranjestad",
+        "Population" : 71566,
+        "LandArea" : 193,
+        "Valuta:" : "Aruba Guilder",
+        "Language" : "[Dutch, Flemish, Panjabi, Punjabi]",
+        "Flag" : "./flagImg/ABW.svg"
+    },
+
+    "Afghanistan" : {
+        "CountryCodes" : "AFG",
+        "Country" : "Afghanistan",
+        "Capital" : "Kabul",
+        "Population" : 37172386,
+        "LandArea" : 647500,
+        "Valuta:" : "Afghanistan Afghani",
+        "Language" : "[Pushto, Pashto, Uzbek, Turkmen]",
+        "Flag" : "./flagImg/AFG.svg"
+    },
+    
+    "Angola" : {
+        "CountryCodes" : "AGO",
+        "Country" : "Angola",
+        "Capital" : "Luanda",
+        "Population" : 30809762,
+        "LandArea" : 1246700,
+        "Valuta:" : "Angolan Kwanza",
+        "Language" : "[Portuguese]",
+        "Flag" : "./flagImg/AGO.svg"
+    }
+}
