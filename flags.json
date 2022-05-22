@@ -30,5 +30,26 @@
         "Valuta:" : "Angolan Kwanza",
         "Language" : "[Portuguese]",
         "Flag" : "./flagImg/AGO.svg"
+    },
+
+    "4" : {
+        "CountryCodes" : "AIA",
+        "Country" : "Anguilla",
+        "Capital" : "The Valley",
+        "Population" : 14731,
+        "LandArea" : 91,
+        "Valuta:" : "Eastern Caribbean dollar",
+        "Language" : "[English]",
+        "Flag" : "./flagImg/AIA.svg"
+    },
+    "5" : {
+        "CountryCodes" : "ALA",
+        "Country" : "Aland Islands",
+        "Capital" : "Mariehamn",
+        "Population" : 30129,
+        "LandArea" : 1580,
+        "Valuta:" : "Eastern Caribbean dollar",
+        "Language" : "[Swedish]",
+        "Flag" : "./flagImg/ALA.svg"
     }
 }
