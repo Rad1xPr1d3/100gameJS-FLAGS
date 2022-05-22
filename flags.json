@@ -1,5 +1,5 @@
 {
-    "Aruba" : {
+    "1" : {
         "CountryCodes" : "ABW",
         "Country" : "Aruba",
         "Capital" : "Oranjestad",
@@ -10,7 +10,7 @@
         "Flag" : "./flagImg/ABW.svg"
     },
 
-    "Afghanistan" : {
+    "2" : {
         "CountryCodes" : "AFG",
         "Country" : "Afghanistan",
         "Capital" : "Kabul",
@@ -21,7 +21,7 @@
         "Flag" : "./flagImg/AFG.svg"
     },
     
-    "Angola" : {
+    "3" : {
         "CountryCodes" : "AGO",
         "Country" : "Angola",
         "Capital" : "Luanda",
