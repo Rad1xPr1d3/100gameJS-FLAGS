@@ -51,5 +51,56 @@
         "Valuta:" : "Eastern Caribbean dollar",
         "Language" : "[Swedish]",
         "Flag" : "./flagImg/ALA.svg"
+    },
+    "6" : {
+        "CountryCodes" : "ALB",
+        "Country" : "Albania",
+        "Capital" : "Tirana",
+        "Population" : 2845955,
+        "LandArea" : 28748,
+        "Valuta:" : "Lek",
+        "Language" : "[Albanian]",
+        "Flag" : "./flagImg/ALB.svg"
+    },
+    "7" : {
+        "CountryCodes" : "AND",
+        "Country" : "Andorra",
+        "Capital" : "Andorra la Vella",
+        "Population" : 279535,
+        "LandArea" : 468,
+        "Valuta:" : "Euro",
+        "Language" : "[Catalan]",
+        "Flag" : "./flagImg/AND.svg"
+    },
+    "8" : {
+        "CountryCodes" : "ARE",
+        "Country" : "United Arab Emirates",
+        "Capital" : "Abu Dhabi",
+        "Population" : 9282410,
+        "LandArea" : 83600,
+        "Valuta:" : "UAE dirham",
+        "Language" : "[Arabi, English]",
+        "Flag" : "./flagImg/ARE.svg"
+    },
+    "9" : {
+        "CountryCodes" : "ARG",
+        "Country" : "Argentina",
+        "Capital" : "Buenos Aires",
+        "Population" : 47327407,
+        "LandArea" : 2780400,
+        "Valuta:" : "Argentine peso",
+        "Language" : "[Spanish]",
+        "Flag" : "./flagImg/ARG.svg"
+    },
+    "10" : {
+        "CountryCodes" : "ARM",
+        "Country" : "Armenia",
+        "Capital" : "Yerevan",
+        "Population" : 2963900,
+        "LandArea" : 29743,
+        "Valuta:" : "Dram",
+        "Language" : "[Armenian]",
+        "Flag" : "./flagImg/ARM.svg"
     }
+
 }
