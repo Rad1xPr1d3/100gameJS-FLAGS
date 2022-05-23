@@ -101,6 +101,76 @@
         "Valuta:" : "Dram",
         "Language" : "[Armenian]",
         "Flag" : "./flagImg/ARM.svg"
+    },
+    "11" : {
+        "CountryCodes" : "ASM",
+        "Country" : "American Samoa",
+        "Capital" : "Pago Pago",
+        "Population" : 463366,
+        "LandArea" : 200,
+        "Valuta:" : "United States dollar",
+        "Language" : "[English, Samoan]",
+        "Flag" : "./flagImg/ASM.svg"
+    },
+    "12" : {
+        "CountryCodes" : "ATA",
+        "Country" : "Antarctica",
+        "Capital" : "Antarctica",
+        "Population" : 5000,
+        "LandArea" : 14200000,
+        "Valuta:" : "United States dollar",
+        "Language" : "[English]",
+        "Flag" : "./flagImg/ATA.svg"
+    },
+    "13" : {
+        "CountryCodes" : "ATF",
+        "Country" : "French Southern Territories",
+        "Capital" : "Saint Pierre",
+        "Population" : 439666,
+        "LandArea" : 400,
+        "Valuta:" : "Euro",
+        "Language" : "[French]",
+        "Flag" : "./flagImg/ATF.svg"
+    },
+    "14" : {
+        "CountryCodes" : "ATG",
+        "Country" : "Antigua and Barbuda",
+        "Capital" : "St. John's",
+        "Population" : 99337,
+        "LandArea" : 440,
+        "Valuta:" : "East Caribbean dollar",
+        "Language" : "[English]",
+        "Flag" : "./flagImg/ATG.svg"
+    },
+    "15" : {
+        "CountryCodes" : "AUS",
+        "Country" : "Australia",
+        "Capital" : "Canberra",
+        "Population" : 26002600,
+        "LandArea" : 7692024,
+        "Valuta:" : "Australian dollar",
+        "Language" : "[English]",
+        "Flag" : "./flagImg/AUS.svg"
+    },
+    "16" : {
+        "CountryCodes" : "AUT",
+        "Country" : "Austria",
+        "Capital" : "Vienna",
+        "Population" : 9027999,
+        "LandArea" : 83879,
+        "Valuta:" : "Euro",
+        "Language" : "[German]",
+        "Flag" : "./flagImg/AUT.svg"
+    },
+    "17" : {
+        "CountryCodes" : "AZE",
+        "Country" : "Azerbaijan",
+        "Capital" : "Baku",
+        "Population" : 10164464,
+        "LandArea" : 86600,
+        "Valuta:" : "Manat",
+        "Language" : "[Azerbaijani]",
+        "Flag" : "./flagImg/AZE.svg"
     }
 
 }
