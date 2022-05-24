@@ -3,7 +3,7 @@
     let DB = await(await fetch('flags.json')).json(); //? разобраться как это работает
     let flag = document.getElementById('flag');
     let buttons = document.getElementsByClassName("button");
-    let randomNumber = randIntExcep(1, 17);
+    let randomNumber = randIntExcep(1, 22);
     let newFlag = DB[randomNumber].Flag;
     flag.setAttribute('src', newFlag);
 
@@ -12,7 +12,7 @@
 
     for (let item of buttons) {
         item.innerHTML = DB[randomNumber].Country;
-        randomNumber = randIntExcep(1, 17);
+        randomNumber = randIntExcep(1, 22);
     }
 
 

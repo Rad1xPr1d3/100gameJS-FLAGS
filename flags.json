@@ -171,6 +171,56 @@
         "Valuta:" : "Manat",
         "Language" : "[Azerbaijani]",
         "Flag" : "./flagImg/AZE.svg"
+    },
+    "18" : {
+        "CountryCodes" : "BDI",
+        "Country" : "Burundi",
+        "Capital" : "Gitega",
+        "Population" : 11865821,
+        "LandArea" : 27834,
+        "Valuta:" : "Burundian franc",
+        "Language" : "[Kirundi, French, English]",
+        "Flag" : "./flagImg/BDI.svg"
+    },
+    "19" : {
+        "CountryCodes" : "BEL",
+        "Country" : "Belgium",
+        "Capital" : "Brussels",
+        "Population" : 11492641,
+        "LandArea" : 30689,
+        "Valuta:" : "Euro",
+        "Language" : "[Dutch, French, German]",
+        "Flag" : "./flagImg/BEL.svg"
+    },
+    "20" : {
+        "CountryCodes" : "BEN",
+        "Country" : "Benin",
+        "Capital" : "Porto-Novo",
+        "Population" : 11733059,
+        "LandArea" : 114763,
+        "Valuta:" : "West African CFA franc",
+        "Language" : "[French]",
+        "Flag" : "./flagImg/BEN.svg"
+    },
+    "21" : {
+        "CountryCodes" : "BES",
+        "Country" : "Bonaire",
+        "Capital" : "Kralendijk",
+        "Population" : 20104,
+        "LandArea" : 288,
+        "Valuta:" : "US dollar",
+        "Language" : "[Dutch]",
+        "Flag" : "./flagImg/BES.svg"
+    },
+    "22" : {
+        "CountryCodes" : "BFA",
+        "Country" : "Burkina Faso",
+        "Capital" : "Ouagadougou",
+        "Population" : 21510181,
+        "LandArea" : 274200,
+        "Valuta:" : "West African CFA franc",
+        "Language" : "[French]",
+        "Flag" : "./flagImg/BFA.svg"
     }
 
 }
