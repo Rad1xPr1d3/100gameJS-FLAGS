@@ -221,6 +221,46 @@
         "Valuta:" : "West African CFA franc",
         "Language" : "[French]",
         "Flag" : "./flagImg/BFA.svg"
+    },
+    "23" : {
+        "CountryCodes" : "BGD",
+        "Country" : "Bangladesh",
+        "Capital" : "Dhaka",
+        "Population" : 161376708,
+        "LandArea" : 148460,
+        "Valuta:" : "Taka",
+        "Language" : "[Bengali]",
+        "Flag" : "./flagImg/BGD.svg"
+    },
+    "24" : {
+        "CountryCodes" : "BGR",
+        "Country" : "Bulgaria",
+        "Capital" : "Dhaka",
+        "Population" : 6863422,
+        "LandArea" : 110993,
+        "Valuta:" : "Lev",
+        "Language" : "[Bulgarian]",
+        "Flag" : "./flagImg/BGR.svg"
+    },
+    "25" : {
+        "CountryCodes" : "BHR",
+        "Country" : "Bahrain",
+        "Capital" : "Manama",
+        "Population" : 	1569446,
+        "LandArea" : 785,
+        "Valuta:" : "Bahraini dinar",
+        "Language" : "[Arabic, English]",
+        "Flag" : "./flagImg/BHR.svg"
+    },
+    "26" : {
+        "CountryCodes" : "BHS",
+        "Country" : "Bahamas",
+        "Capital" : "Nassau",
+        "Population" : 	400516,
+        "LandArea" : 13878,
+        "Valuta:" : "Bahamian dollar",
+        "Language" : "[English]",
+        "Flag" : "./flagImg/BHS.svg"
     }
 
 }
