@@ -2,7 +2,7 @@
 
 let flag = document.getElementById('flag');
 let buttons = document.getElementsByClassName("button");  
-let max = 26,
+let max = 29,
     min = 1;
 
 fetch('./flags.json')                   //import JSON 
@@ -12,7 +12,7 @@ fetch('./flags.json')                   //import JSON
   .then (DB => console.log(DB))
   .tnen (DB => startPartGame(DB))
   .catch(error => {
-    alert(error); // Error: Not Found
+    alert(error);                     // Error: Not Found
   })
  
 // PART GAME

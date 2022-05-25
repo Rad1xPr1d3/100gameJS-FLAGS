@@ -261,6 +261,36 @@
         "Valuta:" : "Bahamian dollar",
         "Language" : "[English]",
         "Flag" : "./flagImg/BHS.svg"
+    },
+    "27" : {
+        "CountryCodes" : "BIH",
+        "Country" : "Bosnia and Herzegovina",
+        "Capital" : "Sarajevo",
+        "Population" : 	 3475000,
+        "LandArea" : 51129,
+        "Valuta:" : "Convertible mark",
+        "Language" : "[Bosnian, Serbian]",
+        "Flag" : "./flagImg/BIH.svg"
+    },
+    "28" : {
+        "CountryCodes" : "BLM",
+        "Country" : "Saint Barthelemy",
+        "Capital" : "Gustavia",
+        "Population" : 	9961,
+        "LandArea" : 25,
+        "Valuta:" : "Euro",
+        "Language" : "[French]",
+        "Flag" : "./flagImg/BLM.svg"
+    },
+    "29" : {
+        "CountryCodes" : "BLR",
+        "Country" : "Belarus",
+        "Capital" : "Minsk",
+        "Population" : 	9255524,
+        "LandArea" : 207595,
+        "Valuta:" : "Belarusian ruble",
+        "Language" : "[Belarusian, Russian]",
+        "Flag" : "./flagImg/BLR.svg"
     }
 
 }
